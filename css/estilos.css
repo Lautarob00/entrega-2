@@ -618,8 +618,7 @@ textarea {
         justify-content: start;
     }
     header h1 {
-        width: 150px;
-        margin: auto;
+        display: none;
     }
     nav {
         padding: 10px;
